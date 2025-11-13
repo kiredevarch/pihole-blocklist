@@ -1,47 +1,103 @@
 # AI Websites Blacklist for Pi-hole
 # Blocks popular AI chatbots and generative AI sites to prevent homework use
-# Last updated: November 12, 2025
+# Includes full Grok/xAI domains
+# Last updated: November 13, 2025
 
+# OpenAI / ChatGPT
 chatgpt.com
 www.chatgpt.com
 openai.com
 www.openai.com
+
+# Anthropic / Claude
 claude.ai
 www.claude.ai
 anthropic.com
 www.anthropic.com
+
+# Google (Gemini, Bard, AI Overviews)
 gemini.google.com
 bard.google.com
+
+# Microsoft (Copilot, Bing AI)
 copilot.microsoft.com
 www.copilot.microsoft.com
 bing.com/ai
+
+# Perplexity
 perplexity.ai
 www.perplexity.ai
+
+# === GROK / xAI (ADDED) ===
 grok.x.ai
+grok.com
 x.ai
 www.x.ai
+api.x.ai
+console.grok.com
+grok.beta.x.ai
+chat.grok.com
+grok.ai
+www.grok.ai
+
+# Meta AI
 meta.ai
 www.meta.ai
+ai.meta.com
+
+# Mistral
 mistral.ai
 www.mistral.ai
+chat.mistral.ai
+
+# DeepSeek
 deepseek.com
 chat.deepseek.com
+
+# Poe (multi-model platform)
 poe.com
 www.poe.com
+
+# You.com
 you.com
 www.you.com
+
+# HeyPi / Pi
 heypi.com
+pi.ai
+
+# Hugging Face
 huggingface.co
 chat.huggingface.co
+
+# Character.AI
 character.ai
 www.character.ai
+
+# Jasper
 jasper.ai
 www.jasper.ai
+
+# Replika
 replika.ai
+
+# Writesonic
 writesonic.com
+
+# Personal AI
 personal.ai
+
+# Merlin
 getmerlin.in
+
+# TextCortex
 textcortex.com
+
+# Runway
 runwayml.com
+
+# Synthesia
 synthesia.io
+
+# Khanmigo
 khanmigo.khanacademy.org
