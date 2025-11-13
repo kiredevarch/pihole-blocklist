@@ -1,0 +1,47 @@
+# AI Websites Blacklist for Pi-hole
+# Blocks popular AI chatbots and generative AI sites to prevent homework use
+# Last updated: November 12, 2025
+
+chatgpt.com
+www.chatgpt.com
+openai.com
+www.openai.com
+claude.ai
+www.claude.ai
+anthropic.com
+www.anthropic.com
+gemini.google.com
+bard.google.com
+copilot.microsoft.com
+www.copilot.microsoft.com
+bing.com/ai
+perplexity.ai
+www.perplexity.ai
+grok.x.ai
+x.ai
+www.x.ai
+meta.ai
+www.meta.ai
+mistral.ai
+www.mistral.ai
+deepseek.com
+chat.deepseek.com
+poe.com
+www.poe.com
+you.com
+www.you.com
+heypi.com
+huggingface.co
+chat.huggingface.co
+character.ai
+www.character.ai
+jasper.ai
+www.jasper.ai
+replika.ai
+writesonic.com
+personal.ai
+getmerlin.in
+textcortex.com
+runwayml.com
+synthesia.io
+khanmigo.khanacademy.org
